@@ -1,4 +1,4 @@
-# Data-Analyst-Scientist portfolio.
+### Data-Analyst-Scientist portfolio.
 Hi there, I'm [Juniel Gavilan]! 👋
 Welcome to my GitHub profile!!!
 I'm a passionate Data Scientist with a knack for extracting insights and building intelligent solutions from data. 
@@ -6,18 +6,18 @@ This repository serves as a portfolio of my data science projects, showcasing my
 
 🛠️ Skills & Technologies
 Here are some of the tools and technologies I work with:
-# Programming Languages: 
+### Programming Languages: 
 Python (NumPy, Pandas, Scikit-learn, TensorFlow/Keras, PyTorch), SQL
-# Machine Learning: 
+### Machine Learning: 
 Supervised Learning (Regression, Classification), Unsupervised Learning (Clustering, Dimensionality Reduction),
 Model Evaluation & Selection, Feature Engineering
-# Deep Learning: 
+### Deep Learning: 
 Neural Networks, Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs)
-# Data Visualization:
+### Data Visualization:
 Matplotlib, Seaborn, Plotly, Tableau
-# Databases: 
+### Databases: 
 MySQL, PostgreSQL
-# Big Data Tools:
+### Big Data Tools:
 Spark
-# Other Tools: 
+### Other Tools: 
 Git, Docker, Jupyter Notebooks
