@@ -1,5 +1,5 @@
 ### Data-Analyst-Scientist portfolio.
-Hi there, I'm [Juniel Gavilan]! 👋
+Hi there, I'm Juniel Gavilan Sanchez! 👋
 Welcome to my GitHub profile!!!
 I'm a passionate Data Scientist with a knack for extracting insights and building intelligent solutions from data. 
 This repository serves as a portfolio of my data science projects, showcasing my skills and the problems I love to solve.
